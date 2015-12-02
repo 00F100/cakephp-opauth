@@ -26,5 +26,11 @@
     "psr-4": {
       "Wouter0100\\Opauth\\": "src"
     }
-  }
+  },
+    "repositories":[
+        {
+            "type":"vcs",
+            "url":"git@github.com:opauth/opauth.git"
+        }
+    ]
 }
