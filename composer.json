@@ -1,5 +1,5 @@
 {
-  "name": "wouter0100/cakephp-opauth",
+  "name": "00f100/cakephp-opauth",
   "description": "Opauth plugin for CakePHP v3.x, allowing simple plug-n-play 3rd-party authentication with CakePHP",
   "type": "cakephp-plugin",
   "keywords": ["cakephp", "opauth", "authentication", "auth", "oauth"],
