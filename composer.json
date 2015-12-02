@@ -20,7 +20,7 @@
   "require": {
     "php": ">=5.3.0",
     "cakephp/cakephp": "3.1.5",
-    "opauth/opauth": "1.0.0-alpha.1"
+    "opauth/opauth": "dev-master"
   },
   "autoload": {
     "psr-4": {
